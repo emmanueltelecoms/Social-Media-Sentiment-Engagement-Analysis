@@ -5,7 +5,8 @@ This project focuses on the end-to-end analysis of social media sentiment and us
 
 The final output is an interactive Excel Dashboard that provides real-time KPIs and visual insights into emotional trends, geographical hotspots, and platform performance.
 
-![Codveda Project Dashboard Screenshot](https://github.com/user-attachments/assets/58d3ee7d-43b1-4685-880a-8c4a4ea3db21)
+![Emmanuel Codveda Project Dashboard ](https://github.com/user-attachments/assets/0bf62eb9-f400-4333-b44a-3698383b17e5)
+
 
 
 ## 🛠️ Technical Workflow
