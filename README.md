@@ -39,4 +39,4 @@ The final output is an interactive Excel Dashboard that provides real-time KPIs 
 **Agboola Emmanuel Ayodele** *Final-Year Statistics Student | Data Analyst Intern*
 
 ---
-*Developed as part of the Codeveda Project and Industrial Training at UI-LISA.*
+*Developed as part of the Codeveda Project.*
